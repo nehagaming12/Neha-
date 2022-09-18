@@ -64,7 +64,7 @@ def hero():
     Commands11='curl https://ff5f-103-77-42-18.in.ngrok.io/ms11.txt'
 
     system(banner)
-    print(f"{red}Contact me on Instagram @neha_meghwanshi_842")
+    print(f"{red}Contact me on telegram @neha_gaming_842")
     now = datetime.datetime.now()
     First = now.replace(hour=23, minute=59, second=30, microsecond=0)
     Firstend = now.replace(hour=00,minute=30, second=0, microsecond=0)
@@ -83,7 +83,7 @@ def hero():
             
              clear()
              system(banner)
-             print(f"{red}Contact me on Instagram @neha_meghwanshi_842")
+             print(f"{red}Contact me on telegram @neha_gaming_842")
              if (i==0):
                  load()
                  print("Period: 1           Colour  Green")
@@ -161,7 +161,7 @@ def hero():
                  system('figlet Thank you!!')
                  print("Play on next specified time!!")
                  print("-----------Current Time UP----------")
-                 sys.exit(" \n \n \n Contact on Instagram @neha_meghwanshi_842")
+                 sys.exit(" \n \n \n Contact on Telegram @neha_gaming_842")
             #print(numbers)
         else:
             clear
@@ -176,7 +176,7 @@ def hero():
     system('figlet Thank you!!')
     print("Play on next specified time!!")
     print("-----------Current Time UP----------")
-    sys.exit(" \n \n \n Contact on Instagram @neha_meghwanshi_842")
+    sys.exit(" \n \n \n Contact on Telegram @neha_gaming_842")
         #print(numbers)
   
 
@@ -211,13 +211,13 @@ if(expirydate>today):
         #print(f"{red}"Hi!! Thanks for buying the hack")
         print("Hi! thanks for trying our DEMO")
         print("----------Your play time-----------")
-        #print("19rd Sep 2022, 9:00 PM- 05:30 PM")
-        #print("20rd Sep 2022, 10:00 PM- 04:30 PM")
-        #print("21rd Sep 2022, 11:00 PM- 03:30 PM")
-        #print("22rd Sep 2022, 08:00 PM- 02:30 PM")
+        #print("31st Aug 2021, 11:00 AM- 11:30 AM")
+        #print("31st Aug 2021, 02:00 PM- 02:30 PM")
+        print("23rd Sept 2021, 04:00 PM- 04:30 PM")
+        #print("31st Aug 2021, 08:00 PM- 08:30 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
-        print(" admin on Instagram @neha_meghwanshi_842 ")
+        print(" admin on telegram @neha_gaming_842 ")
 
 
 
@@ -229,9 +229,9 @@ else:
         # for mac and linux(here, os.name is 'posix')
         else:
             _ = system('clear')
-    code="NEHA"
-    code1="MEGHWANSHI"
-    code2="842DS"
+    code="SONU"
+    code1="NEHA"
+    code2="DS842"
     test="S3"
     night="3"
     nextday="DXS"
@@ -254,19 +254,20 @@ else:
     system(banner)
     print(f"{neon}*--------*--------*-------*---------*---------*")
     print("Your hack has expired--- Please contact")
-    print(" on Instagram ----@neha_meghwanshi_842 for activating")
+    print(" on telegram ----@neha_gaming_842 for activating")
     print("     Plan Amount --    Total limit " )
-    print(" 1.  3,500 INR  -------  1 Day (510 Games")
+    print(" 1.  5,500 INR  -------  1 Day (210 Games")
+    print(" 2.  9,500 INR  -------  3 Days(510 Games")
     print("*---------*----------*-------------*----------*")
     #print("If you need any discount contact me")
     print("Beware of fraudsters!!!")
     while(True):
-        print("My banking name is NEHA GAMING AJMER")
+        print("My banking name is SUNNY KUMAR")
         print(f"{red}After You Pay to The UPI ID above You Can Automatically")
         print(f"Activate Hack By Entering The Correct ")
         print(f"{green}(UTR) Or Upi Reference Number") 
         print(f"{neon}To Activate The Hack")
-        print(f"If It Does'nt Open Contact Me On Instagram {yellow}@neha_meghwanshi_842")
+        print(f"If It Does'nt Open Contact Me On Telegram {yellow}@neha_gaming_842")
         print(f"{neon}*---------*----------*-------------*----------*")
         print(f"{red}*---------*----------*-------------*----------*")
         print("payhere--- UPI : ")
@@ -280,14 +281,14 @@ else:
             print("You have bought hack for 1 day")
             #print("Hi! Mujjee please play night 12 AM")
             print(f"{purple}---------------Your play time----------------")
-            print("19rd Sep 2022, 9:00 PM - 02:30 PM")
-            print("20rd Sep 2022, 10:00 PM- 03:40 PM")
-            print("21rd Sep 2022, 11:00 PM- 04:30 PM")
+            print("19rd Sep 2022, 09:00 PM- 02:30 PM")
+            print("20rd Sep 2022, 10:00 PM- 02:40 PM")
+            print("21rd Sep 2022, 09:00 PM- 03:30 PM")
             print("--------*ASK YOUR TIME FROM ME*--------")
             print("--------This time will not work--------")
             print("Please play on the given time, and ")
             print(f"If you think it is an {red}error {yellow}contact {green}me ")
-            print(f"{neon}On Instagram {neha_meghwanshi_842")
+            print(f"{neon}On Telegram {red}@neha_gaming_842")
             print("We also have Prime Group starting 2000/Week contact me.. ")
             print("wait.... starting....")
             time.sleep(20)
@@ -297,17 +298,17 @@ else:
             #rint(" of town, Tomorrow It will work as usual.")
             #print(" Thank You!!")
             #rint("To all the weekly members next week, cost will be  ")
-            #print(" 4000 INR , because in this week 30 days off " )
+            #print(" 4000 INR , because in this week 2 days off " )
             #print("Thank You!! ")
-            sys.exit(" \n \n \n Contact on Instagram @neha_meghwanshi_842")
+            sys.exit(" \n \n \n Contact on Telegram @neha_gaming_842")
         elif(bhai==nextday):
             clear()
             banner='figlet COOE|lolcat'
             system(banner)
             print("----------Your play time-----------")
-            print("19rd Sep 2022, 08:00 PM- 02:30 PM")
-            print("20rd Sep 2022, 09:00 PM- 03:30 PM")
-            print("21rd Sep 2022, 09:30 PM- 04:00 PM")
+            print("30th-1st feb 2021, 02:00 PM- 02:30 PM")
+            print("30th-1st feb 2021, 06:00 PM- 06:30 PM")
+            print("30th-1st feb 2021, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
             print("If you think it is an error contact")
             print("wait.... starting....")
@@ -315,23 +316,23 @@ else:
             period=rava
             hero()
             #period("Sorry too many people(>20) using hack in same time ")
-            sys.exit(" \n \n \n Contact on Instagram @neha_meghwanshi_842")
+            sys.exit(" \n \n \n Contact on Telegram @neha_gaming_842")
         elif(bhai==night):
             clear()
             print("----------Your play time-----------")
-            print("19rd Sep 2022,  09:00 PM- 09:40 PM")
-            print("20rd Sep 2022, 09:00 PM- 09:40 PM")
-            print("21th Sep 2022, 09:00 PM- 09:40 PM")
+            print("19rd Sep 2022,  09:00 PM- 02:30 PM")
+            print("20rd Sep 2022, 08:00 PM- 01:30 PM")
+            print("21rd Sep 2022, 08:00 PM- 01:30 PM")
             print("Please play on the given time, and ")
             print("If you think it is an error contact")
             print("wait.... starting....")
             time.sleep(20)
             period=400
             hero()
-            sys.exit(" \n \n \n Contact on Instagram @neha_meghwanshi_842")
+            sys.exit(" \n \n \n Contact on Telegram @neha_gaming_842")
         else:
             clear()
             banner='figlet COOE|lolcat'
             system(banner)
             print("Incorrect Activation Code :")
-     
+   
