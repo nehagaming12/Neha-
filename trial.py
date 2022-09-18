@@ -262,7 +262,7 @@ else:
     #print("If you need any discount contact me")
     print("Beware of fraudsters!!!")
     while(True):
-        print("My banking name is SUNNY KUMAR")
+        print("My banking name is NEHA GAMING AJMER")
         print(f"{red}After You Pay to The UPI ID above You Can Automatically")
         print(f"Activate Hack By Entering The Correct ")
         print(f"{green}(UTR) Or Upi Reference Number") 
