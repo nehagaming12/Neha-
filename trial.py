@@ -1,5 +1,5 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
+!/usr/bin/python
+ -*- coding: UTF-8 -*-
 
 from distutils.cmd import Command
 from os import system, name
@@ -16,7 +16,7 @@ from alive_progress import alive_bar
 
 
 
-expirydate = datetime.date(2021, 9, 24)
+expirydate = datetime.date(2022, 9, 18)
 #expirydate = datetime.date(2021, 8, 30)
 today=date.today()
 green="\033[3;32m"
@@ -29,8 +29,8 @@ voilet="\033[3;35m"
 
 def hero():
     def load():
-        # for i in tqdm(range(10)):
-        #     sleep(0.1)
+         for i in tqdm(range(10)):
+             sleep(0.1)
         with alive_bar(100, force_tty=True) as bar:
             for i in range(100):
                 time.sleep(0.7)
@@ -39,10 +39,10 @@ def hero():
             
 
     def clear():
-        # for windows
+         for windows
         if name == 'nt':
             _ = system('cls')
-        # for mac and linux(here, os.name is 'posix')
+         for mac and linux(here, os.name is 'posix')
         else:
             _ = system('clear')
     clear()
@@ -87,69 +87,69 @@ def hero():
              if (i==0):
                  load()
                  print("Period: 1           Colour  Green")
-                 #system(Commands)
+                 system(Commands)
                  time.sleep(30)
              if (i==1):
                  load()
                  print("Period: 2           Colour  Green")
-                 #system(Commands1)
+                 system(Commands1)
              if (i==2):
                  load()
                  print("Period: 3           Colour  RED")
-                 #system(Commands2)
+                 system(Commands2)
              if (i==3):
                  load()
                  print("Period: 4          Colour  RED ")
-                 #system(Commands3)
+                 system(Commands3)
              if (i==4):
                  load()
                  print("Period:  5          Colour  GREEN ")
-                 #system(Commands4)
+                 system(Commands4)
              if (i==5):
                  load()
                  print("Period: 6           Colour  GREEN ")
-                 #system(Commands5)
+                 system(Commands5)
              if (i==6):
                  load()
                  print("Period:  7          Colour  Red ")
-                 #system(Commands6)
+                 system(Commands6)
              if (i==7):
                  load()
                  print("Period:   8         Colour Red ")
-                 #system(Commands7)
+                 system(Commands7)
              if (i==8):
                  clear()
                  load()
                  print("Period:  9          Colour Red") 
-                 #system(Commands8)
+                 system(Commands8)
              if (i==9):
                  clear()
                  load()
                  print("Period:  10          Colour Green ")
-                 #system(Commands9)
+                 system(Commands9)
              if (i==10):
                  clear()
                  load()
                  print("Period:            Colour Green ")
-                 #system(Commands10)
+                 system(Commands10)
              if (i==11):
                  clear()
                  load()
                  print("Period:            Colour Green")
-                 #system(Commands11)
+                 system(Commands11)
                 
 
             
             
             
-            #  #n = random.randint(1,30)
-            #  #  if(n%2==0):
-            #  #      c=f"{red}🔴  Red"
-            #  #  else:
-            #  #      c=f"{green}🟢  Green"
-            #  #  print(f"{red}  Period          ", f"{neon}"    ,   load(),     f"{green}     Colour")
-            #  #  print(f"{yellow}",newperiod,"            ",c)
-            #  print(f"{red}   Period       ", system(Commands))
+               n = random.randint(1,30)
+                if(n%2==0):
+                    c=f"{red}🔴  Red"
+                else:
+                    c=f"{green}🟢  Green"
+                print(f"{red}  Period          ", f"{neon}"    ,   load(),     f"{green}     Colour")
+                print(f"{yellow}",newperiod,"            ",c)
+              print(f"{red}   Period       ", system(Commands))
              newperiod+=1   
              i+=1    
              numbers.append(newperiod)
@@ -162,22 +162,22 @@ def hero():
                  print("Play on next specified time!!")
                  print("-----------Current Time UP----------")
                  sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
-            #print(numbers)
+            print(numbers)
         else:
             clear
             break
     
-    #y=input("Do you want to play : Press 1 and 0 to exit \n")
-    #if(y==0):
-     #   y=False
-    #if (len(numbers)>11):
+    y=input("Do you want to play : Press 1 and 0 to exit \n")
+    if(y==0):
+        y=False
+    if (len(numbers)>11):
     clear()
     system(banner)
     system('figlet Thank you!!')
     print("Play on next specified time!!")
     print("-----------Current Time UP----------")
     sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
-        #print(numbers)
+        print(numbers)
   
 
 
@@ -223,15 +223,15 @@ if(expirydate>today):
 
 else:
     def clear():
-        # for windows
+         for windows
         if name == 'nt':
             _ = system('cls')
-        # for mac and linux(here, os.name is 'posix')
+         for mac and linux(here, os.name is 'posix')
         else:
             _ = system('clear')
-    code="QAZWSX"
-    code1="SEDAW"
-    code2="61234W"
+    code="DEEPAK"
+    code1="NEHA"
+    code2="842DS"
     test="S3"
     night="3"
     nextday="DXS"
@@ -260,7 +260,7 @@ else:
     print(" 2.  5,500 INR  -------  3 Days(90 Games")
     print(" 2.  10,500 INR -------  7 Days(210 Games")
     print("*---------*----------*-------------*----------*")
-    #print("If you need any discount contact me")
+    print("If you need any discount contact me")
     print("Beware of fraudsters!!!")
     while(True):
         print("My banking name is SUNNY KUMAR")
@@ -280,7 +280,7 @@ else:
         if(bhai==code or bhai==test or bhai==code1 or bhai==code2):
             clear()
             print("You have bought hack for 1 day")
-            #print("Hi! Mujjee please play night 12 AM")
+            print("Hi! Mujjee please play night 12 AM")
             print(f"{purple}---------------Your play time----------------")
             print("19rd Sep 2022, 12:00 PM - 12:30 PM")
             print("19rd Sep 2022, 04:00 PM- 04:40 PM")
@@ -295,35 +295,35 @@ else:
             time.sleep(20)
             period=rava
             hero()
-            #print("Today Server is off RXCE try tomorrow ")
-            #rint(" of town, Tomorrow It will work as usual.")
-            #print(" Thank You!!")
-            #rint("To all the weekly members next week, cost will be  ")
-            #print(" 4000 INR , because in this week 2 days off " )
-            #print("Thank You!! ")
+            print("Today Server is on RXCE try tomorrow ")
+            rint(" of town, Tomorrow It will work as usual.")
+            print(" Thank You!!")
+            rint("To all the weekly members next week, cost will be  ")
+            print(" 4000 INR , because in this week 2 days off " )
+            print("Thank You!! ")
             sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
         elif(bhai==nextday):
             clear()
             banner='figlet COOE|lolcat'
             system(banner)
             print("----------Your play time-----------")
-            print("30th-1st feb 2021, 02:00 PM- 02:30 PM")
-            print("30th-1st feb 2021, 06:00 PM- 06:30 PM")
-            print("30th-1st feb 2021, 08:30 PM- 09:00 PM")
+           #print("30th-1st feb 2021, 02:00 PM- 02:30 PM")
+           #print("30th-1st feb 2021, 06:00 PM- 06:30 PM")
+           #print("30th-1st feb 2021, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
             print("If you think it is an error contact")
             print("wait.... starting....")
             time.sleep(20)
             period=rava
             hero()
-            #period("Sorry too many people(>20) using hack in same time ")
+            period("Sorry too many people(>20) using hack in same time ")
             sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
         elif(bhai==night):
             clear()
             print("----------Your play time-----------")
-            print("11th Feb 2022,  08:00 PM- 08:30 PM")
-            print("12th Feb 2022, 08:00 PM- 08:30 PM")
-            print("13th Feb 2022, 08:00 PM- 08:30 PM")
+            print("20 Sep 2022,  08:00 PM- 08:30 PM")
+            print("21 Sep 2022, 08:00 PM- 08:30 PM")
+            print("22 Sep 2022, 08:00 PM- 08:30 PM")
             print("Please play on the given time, and ")
             print("If you think it is an error contact")
             print("wait.... starting....")
