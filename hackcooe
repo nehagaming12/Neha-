@@ -11,4 +11,4 @@ gem install lolcat
 pip install alive_progress
 wget -q "https://raw.githubusercontent.com/nehagaming12/Neha-/main/trial.py"
 clear
-python trial.py
+
